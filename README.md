@@ -1,4 +1,4 @@
-# Portfolio V2(https://portfolio-v2-one-sigma.vercel.app/)
+# Portfolio V2[https://portfolio-v2-one-sigma.vercel.app/]
 ---
 Esta es la segunda version de mi portfolio. Cuenta con más tecnologias, mejor diseño y información actualizada al dia de la fecha.
 
